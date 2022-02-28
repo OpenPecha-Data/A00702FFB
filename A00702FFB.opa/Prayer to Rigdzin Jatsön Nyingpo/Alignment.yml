@@ -1,0 +1,38 @@
+segment_sources:
+  P42A6FE87:
+    type: origin_type
+    relation: translation
+    language: en
+  P49F9F7F4:
+    type: origin_type
+    relation: translation
+    language: es
+  PBA3FC841:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d3e80572ca624596bdbc107c6f00b6a6:
+    P42A6FE87: 22f4d5df7bb142ebb7abcc2eb3dae989
+    P49F9F7F4: de7048803a704c819f9be3337a73a05f
+    PBA3FC841: 4b26a936867d49f0935d64151b0a3abd
+  998af1f94dc342ec884298db033a3974:
+    P42A6FE87: 38d23947211b4928a1266a1257cb92cb
+    P49F9F7F4: 48bdb5fbbe8c44d9a906678ae9dbf4e8
+    PBA3FC841: 682a76c8eb9f42209bcb318ecb57eab6
+  c333604ca08c4862a5adfae4a58d9ae0:
+    P42A6FE87: bbd7d541826e4e4280a7004fa259c557
+    P49F9F7F4: 01f319fa398c4250afcf318311b59b65
+    PBA3FC841: 1f3109e3490d422886bc44f822bc633c
+  e8ff23a725c1459cbff21576ebff39d0:
+    P42A6FE87: 61c3476c1a2b4e50a73260fdbe437484
+    P49F9F7F4: fca6fdf3e4544fb1a583fcb1c37bdb6a
+    PBA3FC841: 1bd300b14da94dba958e06352943af04
+  f9983fc265a347d7aa9b1fac13635e07:
+    P42A6FE87: 8a2414afc29347d4ae3e36b7670a7d38
+    P49F9F7F4: ac7e7064c0b943c88c11a68d64140351
+    PBA3FC841: 0ecd9d09a4f848df8f238ea6bb63ed55
+  f6deb2b32e3c4c1581f58ebb76b58d8a:
+    P42A6FE87: f4070d1509cb4c94bde820e6ae83425b
+    P49F9F7F4: 6a48260d257d4366aada02e000e2a8c3
+    PBA3FC841: b9112da1f6b842da8cb263a8cdd1c5d3

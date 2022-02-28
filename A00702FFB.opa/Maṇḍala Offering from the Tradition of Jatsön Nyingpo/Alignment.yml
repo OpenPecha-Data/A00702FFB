@@ -1,0 +1,22 @@
+segment_sources:
+  P42A6FE87:
+    type: origin_type
+    relation: translation
+    language: en
+  P49F9F7F4:
+    type: origin_type
+    relation: translation
+    language: es
+  PBA3FC841:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bb9f21835120498db2506aa4422e1313:
+    P42A6FE87: bb326463ab7e48099e28fe912ce1bfa3
+    P49F9F7F4: 09441774cc654048a8d0da6b6d030ce5
+    PBA3FC841: 6e10abbf87fe44fa8ccf2837be1c89f0
+  e4d732b849124494a9d79307b31a00d6:
+    P42A6FE87: 62ffc520433f439db9005cb7bcaa0b27
+    P49F9F7F4: 6282bb36e42a4e9d8dd6c4987e7c7f63
+    PBA3FC841: c13539604979400a941177c0dc7b4a32
